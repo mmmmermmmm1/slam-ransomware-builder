@@ -10,6 +10,7 @@
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20esp.png?raw=true)
 
  menu principal en ingles:
+ 
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20ing.png?raw=true)
  
  menu ajustes en español:
