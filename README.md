@@ -6,6 +6,7 @@
  como siempre esto no esta pensado para hacer daño a nadie (o si), usa esto bajo tu propia responsabilidad.
  
  menu principal en español:
+ 
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20esp.png?raw=true)
 
  menu principal en ingles:
