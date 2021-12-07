@@ -52,4 +52,6 @@
 
 - dale a instalar/install
 
+- sube los archivos necesarios a tu web (opcional)
+
 - LISTO!!!
