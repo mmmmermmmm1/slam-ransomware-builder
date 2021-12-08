@@ -59,4 +59,4 @@
 - LISTO!!!
 
 configurar pagina web:
-https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/bandicam%202021-12-08%2016-40-03-795_Trim.mp4?raw=true
+https://raw.githubusercontent.com/AnderMoralDiaz/slam-ransomware-builder/main/bandicam%202021-12-08%2016-40-03-795_Trim.mp4?token=ASSIKLP2JRZNQSJORX4XT6DBWDKLK
