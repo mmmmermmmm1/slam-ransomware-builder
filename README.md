@@ -61,5 +61,5 @@
 configurar pagina web:
 
 <video width="320" height="240" controls>
-  <source src="avanzado ing.png.mp4" type="video/mp4">
+  <source src="movie.mp4" type="video/mp4">
 </video>
