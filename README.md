@@ -60,6 +60,4 @@
 
 configurar pagina web:
 
-<video width="320" height="240" controls>
-  <source src="1.mp4" type="video/mp4">
-</video>
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/1.gif?raw=true)
