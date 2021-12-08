@@ -61,5 +61,5 @@
 configurar pagina web:
 
 <video width="320" height="240" controls>
-  <source src="https://elpepemanaca.000webhostapp.com/bandicam%202021-12-08%2016-40-03-795_Trim.mp4" type="video/mp4">
+  <source src="avanzado ing.png.mp4" type="video/mp4">
 </video>
