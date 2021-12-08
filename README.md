@@ -60,4 +60,4 @@
 
 configurar pagina web:
 
-![](https://elpepemanaca.000webhostapp.com/bandicam%202021-12-08%2016-40-03-795_Trim.mp4)
+https://elpepemanaca.000webhostapp.com/bandicam%202021-12-08%2016-40-03-795_Trim.mp4
