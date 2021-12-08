@@ -4,6 +4,8 @@
  tiene funciones que NINGUN OTRO COMPILADOR TIENE, es completamente gratuito y facil de usar, si hay algun fallo pon un comentario diciendolo.
  
  como siempre esto no esta pensado para hacer daño a nadie (o si), usa esto bajo tu propia responsabilidad.
+
+ NO SE SUBIRÁN MÁS ACTUALIZACIONES IMPORTANTES HASTA QUE EL PROYECTO TENGA 5 ESTRELLAS
  
  menu principal en español:
  
