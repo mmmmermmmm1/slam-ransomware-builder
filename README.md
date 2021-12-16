@@ -48,7 +48,7 @@
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%203.png?raw=true)
  
  pasos:
- - desactiva el antivirus
+ - desactiva el antivirus/crea una excepción en la carpeta C:\slam_ransomware_builder
  
  - descarga slam ransomware builder installer.exe
 
