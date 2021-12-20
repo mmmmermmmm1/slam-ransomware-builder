@@ -7,6 +7,8 @@
 
  NO SE SUBIRÁN MÁS ACTUALIZACIONES IMPORTANTES HASTA QUE EL PROYECTO TENGA 5 ESTRELLAS
  
+ ACTUALIZACION IMPORTANTE!!!: se esta trabajando en añadir eternalblue al compilador, esta funcion es dificil de hacer asique puede tardar o directamente no llegar.
+ 
  menu principal en español:
  
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20esp.png?raw=true)
