@@ -8,6 +8,11 @@
  NO SE SUBIRÁN MÁS ACTUALIZACIONES IMPORTANTES HASTA QUE EL PROYECTO TENGA 5 ESTRELLAS
  
  ACTUALIZACION IMPORTANTE!!!: se esta trabajando en añadir eternalblue al compilador, esta funcion es dificil de hacer asique puede tardar o directamente no llegar.
+ 
+# BUGS
+hay un bug con la nueva opcion "proceso critico" que proboca que aveces se genere un bsod al terminar el proceso de encriptacion (estoy trabajando en ello)
+
+hay un bug que have que la funcion "añadir al inicio" no funcione correctamente (estoy trabajando en ello)
 
 # actualizacion 2.1:
  - se ha añadido la opcion "proceso critico" que provoca que al cerrar el proceso durante la encriptacion se fuerce un BSOD
