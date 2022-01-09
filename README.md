@@ -5,12 +5,16 @@
  
  como siempre esto no esta pensado para hacer daño a nadie (o si), usa esto bajo tu propia responsabilidad.
 
+ Esta pensado para usarse en Windows 10-11 en otros no funcionará (pero el ransomware generado si hace todo correctamente de la versión Windows 7 para adelante que yo sepa, igual funciona e versiones más antiguas)
+
  NO SE SUBIRÁN MÁS ACTUALIZACIONES IMPORTANTES HASTA QUE EL PROYECTO TENGA 5 ESTRELLAS
  
  ACTUALIZACION IMPORTANTE!!!: se esta trabajando en añadir eternalblue al compilador, esta funcion es dificil de hacer asique puede tardar o directamente no llegar.
  
 # BUGS
 esto no se puede considerar bug ya que se debe al propio windows pero el programa no se ejecuta al inicio si tiene permisos de administrador (usa el bypass)
+
+Posible bug que provoca que al compilar salga un error diciendo "el directorio no está bacio" aunque a sido probado en Windows 7 y con el campo de contraseña vacío.
 
 # actualizacion 2.1:
  - se ha añadido la opcion "proceso critico" que provoca que al cerrar el proceso durante la encriptacion se fuerce un BSOD
