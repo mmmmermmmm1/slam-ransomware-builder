@@ -14,7 +14,7 @@
 # BUGS
 esto no se puede considerar bug ya que se debe al propio windows pero el programa no se ejecuta al inicio si tiene permisos de administrador (usa el bypass)
 
-Posible bug que provoca que al compilar salga un error diciendo "el directorio no está bacio" aunque a sido probado en Windows 7 y con el campo de contraseña vacío.
+Posible bug que provoca que al compilar salga un error diciendo "el directorio no está vacio" aunque a sido probado en Windows 7 y con el campo de contraseña vacío cuando salió el error.
 
 # actualizacion 2.1:
  - se ha añadido la opcion "proceso critico" que provoca que al cerrar el proceso durante la encriptacion se fuerce un BSOD
