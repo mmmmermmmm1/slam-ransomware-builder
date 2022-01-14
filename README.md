@@ -16,12 +16,12 @@ esto no se puede considerar bug ya que se debe al propio windows pero el program
 
 Posible bug que provoca que al compilar salga un error diciendo "el directorio no está vacio" aunque a sido probado en Windows 7 y con el campo de contraseña vacío cuando salió el error.
 
-# actualizacion 2.1:
+# actualizacion 1.1:
  - se ha añadido la opcion "proceso critico" que provoca que al cerrar el proceso durante la encriptacion se fuerce un BSOD
 
  - se han solucionado unos cuantos bugs
  
-# futura version (2.2):
+# futura version (1.2):
  - se añadira la opcion de vaciar la papelera de reciclaje automaticamente, esto es util por si la victima borro un archivo duplicado, asi no lo puede recuperar.
 
  - se añadira la opcion de mostrar una notificacion de windows con icono, mensaje y titulo personalizado.
