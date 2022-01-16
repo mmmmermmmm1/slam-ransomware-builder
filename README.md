@@ -21,10 +21,16 @@ Posible bug que provoca que al compilar salga un error diciendo "el directorio n
 
  - se han solucionado unos cuantos bugs
  
-# futura version (1.2):
- - se añadira la opcion de vaciar la papelera de reciclaje automaticamente, esto es util por si la victima borro un archivo duplicado, asi no lo puede recuperar.
+# actualizacion 1.2:
+ - se añadio la opcion de vaciar la papelera de reciclaje automaticamente, esto es util por si la victima borro un archivo duplicado, asi no lo puede recuperar.
 
- - se añadira la opcion de mostrar una notificacion de windows con icono, mensaje y titulo personalizado.
+ - se añadio la opcion de mostrar una notificacion de windows con icono, mensaje y titulo personalizado.
+
+ - ahora si tienes una version de windows inferior a windows 10 te dira que eres icompatible y saldra un mensaje en todos los menus diciendo lo mismo
+
+ - se a eliminado el boton "mostrar imagen", ahora la muestra automaticamente.
+
+ - se han solucionado bugs
  
  menu principal en español:
  
@@ -54,6 +60,10 @@ Posible bug que provoca que al compilar salga un error diciendo "el directorio n
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%203.png?raw=true)
 
+ menu avanzado pagina 4 en español:
+ 
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%204.png?raw=true)
+
  menu avanzado en ingles:
  
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing.png?raw=true)
@@ -65,6 +75,10 @@ Posible bug que provoca que al compilar salga un error diciendo "el directorio n
  menu avanzado pagina 3 en ingles:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%203.png?raw=true)
+ 
+ menu avanzado pagina 4 en ingles:
+ 
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%204.png?raw=true)
  
  pasos:
  - desactiva el antivirus/crea una excepción en la carpeta C:\slam_ransomware_builder
