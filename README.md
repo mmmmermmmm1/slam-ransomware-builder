@@ -34,11 +34,11 @@ Posible bug que provoca que al compilar salga un error diciendo "el directorio n
  
  menu principal en español:
  
-  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20esp.png?raw=true)
+  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20espa.png?raw=true)
 
  menu principal en ingles:
  
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20ing.png?raw=true)
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20ingl.png?raw=true)
  
  menu ajustes en español:
  
