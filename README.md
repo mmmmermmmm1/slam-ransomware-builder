@@ -36,7 +36,7 @@ Posible bug que provoca que al compilar salga un error diciendo "el directorio n
  
  menu ajustes en español:
  
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20esp.png?raw=true)
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20espa.png?raw=true)
 
  menu ajustes en ingles:
  
