@@ -5,7 +5,7 @@
  
  como siempre esto no esta pensado para hacer daño a nadie (o si), usa esto bajo tu propia responsabilidad.
 
- Esta pensado para usarse en Windows 10-11 en otros no funcionará (pero el ransomware generado si hace todo correctamente de la versión Windows 7 para adelante que yo sepa, igual funciona e versiones más antiguas)
+ Esta pensado para usarse en Windows 10-11 en otros no funcionará (pero el ransomware generado si hace todo correctamente de la versión Windows 7 para adelante que yo sepa, igual funciona en versiones más antiguas)
 
  NO SE SUBIRÁN MÁS ACTUALIZACIONES IMPORTANTES HASTA QUE EL PROYECTO TENGA 5 ESTRELLAS (por ejemplo el compilador de mbr ransomware que actualmente esta en desaroyo no se subira hasta cumplir la meta)
  
