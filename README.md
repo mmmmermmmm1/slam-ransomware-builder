@@ -14,7 +14,7 @@
 # proxima version: 1.3
  - se corregiran muchos bugs
 
- - se actualizara el instalador con un menu mucho mas bonito y desde el mismo menu se podran habrir los proximos programas (mbr builder, screen locker buileder...)
+ - se actualizara el instalador con un menu mucho mas bonito y desde el mismo menu se podran abrir los proximos programas (mbr builder, screen locker buileder...)
  
 # BUGS
 esto no se puede considerar bug ya que se debe al propio windows pero el programa no se ejecuta al inicio si tiene permisos de administrador (usa el bypass)
