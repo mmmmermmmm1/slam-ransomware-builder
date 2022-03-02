@@ -11,11 +11,6 @@
  
  ACTUALIZACION IMPORTANTE!!!: se esta trabajando en añadir eternalblue al compilador, esta funcion es dificil de hacer asique puede tardar o directamente no llegar.
  
-# proxima version: 1.3
- - se corregiran muchos bugs
-
- - se actualizara el instalador con un menu mucho mas bonito y desde el mismo menu se podran abrir los proximos programas (mbr builder, screen locker buileder...)
- 
 # BUGS
 esto no se puede considerar bug ya que se debe al propio windows pero el programa no se ejecuta al inicio si tiene permisos de administrador (usa el bypass)
 
@@ -40,6 +35,11 @@ Cuando te conectas a un servidor el mensaje que te dice correcto o incorrecto se
  - se a eliminado el boton "mostrar imagen", ahora la muestra automaticamente.
 
  - se han solucionado bugs
+ 
+ # actualizacion 1.3
+ - se han corregido muchos bugs
+
+ - se ha actualizado el instalador con un menu mucho mas bonito y desde el mismo menu se podran abrir los proximos programas (mbr builder, screen locker buileder...)
  
  menu principal en español:
  
