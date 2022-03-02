@@ -89,6 +89,10 @@ Cuando te conectas a un servidor el mensaje que te dice correcto o incorrecto se
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%204.png?raw=true)
  
+ instalador:
+ 
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/installer.png?raw=true)
+ 
  pasos:
  - desactiva el antivirus/crea una excepción en la carpeta C:\slam_ransomware_builder
  
