@@ -14,8 +14,6 @@
 # BUGS
 esto no se puede considerar bug ya que se debe al propio windows pero el programa no se ejecuta al inicio si tiene permisos de administrador (usa el bypass)
 
-Posible bug que provoca que al compilar salga un error diciendo "el directorio no está vacio" aunque a sido probado en Windows 7 y con el campo de contraseña vacío cuando salió el error.
-
 Error que provoca que el programa se cierre si está activada la opción "añadir al inicio" por lo tanto si la opción "proceso critico" está activada se creará un loop de bsods, el bug ya se a solucionado en la 1.3, hasta que salga no uséis estas opciones juntas.
 
 Cuando te conectas a un servidor el mensaje que te dice correcto o incorrecto se pone encima de una opción, ya a sido solucionado en la 1.3.
