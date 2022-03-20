@@ -11,12 +11,16 @@
  
  ACTUALIZACION IMPORTANTE!!!: se esta trabajando en añadir eternalblue al compilador, esta funcion es dificil de hacer asique puede tardar o directamente no llegar.
  
+# proxima version (1.4)
+- se añadira una consola de registros para ver todo lo que pasa y si hay algun error poder verlo de una forma mas sencilla
+
+- 1 bug solucionado
+
 # BUGS
+
 esto no se puede considerar bug ya que se debe al propio windows pero el programa no se ejecuta al inicio si tiene permisos de administrador (usa el bypass)
 
-Error que provoca que el programa se cierre si está activada la opción "añadir al inicio" por lo tanto si la opción "proceso critico" está activada se creará un loop de bsods, el bug ya se a solucionado en la 1.3, hasta que salga no uséis estas opciones juntas.
-
-Cuando te conectas a un servidor el mensaje que te dice correcto o incorrecto se pone encima de una opción, ya a sido solucionado en la 1.3.
+cuando buscas un icono pero no seleccionas ninguno sale un mensaje de error, es un bug menor solucionado en la 1.4
 
 # actualizacion 1.1:
  - se ha añadido la opcion "proceso critico" que provoca que al cerrar el proceso durante la encriptacion se fuerce un BSOD
