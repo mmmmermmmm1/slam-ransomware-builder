@@ -16,6 +16,8 @@
 
 - 1 bug solucionado
 
+- se a mejorado la seguridad y si intentas decompilar el ejecutable sera mucho mas dificil encontrar la contraseña ya que ahora se encripta tambien con base64
+
 # BUGS
 
 esto no se puede considerar bug ya que se debe al propio windows pero el programa no se ejecuta al inicio si tiene permisos de administrador (usa el bypass)
