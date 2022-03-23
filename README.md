@@ -10,13 +10,6 @@
  NO SE SUBIRÁN MÁS ACTUALIZACIONES IMPORTANTES HASTA QUE EL PROYECTO TENGA 5 ESTRELLAS (por ejemplo el compilador de mbr ransomware que actualmente esta en desaroyo no se subira hasta cumplir la meta)
  
  ACTUALIZACION IMPORTANTE!!!: se esta trabajando en añadir eternalblue al compilador, esta funcion es dificil de hacer asique puede tardar o directamente no llegar.
- 
-# proxima version (1.4)
-- se añadira una consola de registros para ver todo lo que pasa y si hay algun error poder verlo de una forma mas sencilla
-
-- 1 bug solucionado
-
-- se a mejorado la seguridad y si intentas decompilar el ejecutable sera mucho mas dificil encontrar la contraseña ya que ahora se encripta tambien con base64
 
 # BUGS
 
