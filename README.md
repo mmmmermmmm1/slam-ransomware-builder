@@ -55,11 +55,11 @@ cuando buscas un icono pero no seleccionas ninguno sale un mensaje de error, es 
  
  menu ajustes en español:
  
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20españ.png?raw=true)
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20ingl.png?raw=true)
 
  menu ajustes en ingles:
  
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20ingl.png?raw=true)
+ ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20españ.png?raw=true)
  
  menu avanzado en español:
  
