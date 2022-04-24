@@ -13,7 +13,10 @@
 
 this can not be considered a bug as it is due to windows itself but the program does not run at startup if you have administrator permissions (use the bypass)
 
-when you search for an icon but you don't select one you get an error message, it's a minor bug fixed in 1.4
+# update 1.5 (comming soon)
+ - a few bugs have been fixed
+
+ - now you can change the description of the executable, the version, etc...
 
 # update 1.1:
  - added "critical process" option which causes closing the process during encryption to force a BSOD.
