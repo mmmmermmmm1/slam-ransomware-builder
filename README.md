@@ -39,6 +39,13 @@ this can not be considered a bug as it is due to windows itself but the program 
 
  - the installer has been updated with a much nicer menu and from the same menu the next programs (mbr builder, screen locker builder...) can be opened.
  
+ # update 1.4
+ - a log console was added to see everything that happens and if there is any error you can see it in a simpler way.
+
+ - 1 bug fixed
+
+ - security has been improved and if you try to decompile the executable it will be much more difficult to find the password because now it is also base64 encrypted.
+
  main menu in english:
  
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20espa.png?raw=true)
