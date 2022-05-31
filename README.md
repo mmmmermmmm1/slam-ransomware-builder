@@ -7,22 +7,29 @@
 
  It is intended for use on Windows 10-11 on others it will not work (but the ransomware generated if it does everything correctly from Windows 7 onwards that I know of, it still works on older versions).
 
- Sorry for the delay in publishing the mbr builder but it is taking longer than planned, you will have to download additional files that weigh about 120mb (for now) but it is automatic.
+ Sorry for the delay in publishing the mbr builder but it is taking longer than planned, you will have to download additional files that weigh about 120mb (for now) but it is automatic. I also changed my pc, I calculate that the first version will be released during the summer, but I can't promise anything...
 
 # BUGS
 
 this can not be considered a bug as it is due to windows itself but the program does not run at startup if you have administrator permissions (use the bypass)
 
-# update 1.5 (comming soon)
+# update alpha 1.5 (this is an alpha because it has not been yet fully tested, if there are errors do not hesitate to notify it, it would be very helpful (; )
  - a few bugs have been fixed
 
  - now you can change the description of the executable, the version, etc...
-
-# update 1.1:
- - added "critical process" option which causes closing the process during encryption to force a BSOD.
-
- - a few bugs have been fixed
  
+ # update 1.4
+ - a log console was added to see everything that happens and if there is any error you can see it in a simpler way.
+
+ - 1 bug fixed
+
+ - security has been improved and if you try to decompile the executable it will be much more difficult to find the password because now it is also base64 encrypted.
+ 
+ # update 1.3
+ - many bugs have been fixed
+
+ - the installer has been updated with a much nicer menu and from the same menu the next programs (mbr builder, screen locker builder...) can be opened.
+
 # update 1.2:
  - added option to empty recycle garbage can automatically, this is useful in case the victim deleted a duplicate file, so he can't recover it.
 
@@ -33,19 +40,12 @@ this can not be considered a bug as it is due to windows itself but the program 
  - the "show image" button has been removed, now it shows it automatically.
 
  - bugs have been fixed
+
+# update 1.1:
+ - added "critical process" option which causes closing the process during encryption to force a BSOD.
+
+ - a few bugs have been fixed
  
- # update 1.3
- - many bugs have been fixed
-
- - the installer has been updated with a much nicer menu and from the same menu the next programs (mbr builder, screen locker builder...) can be opened.
- 
- # update 1.4
- - a log console was added to see everything that happens and if there is any error you can see it in a simpler way.
-
- - 1 bug fixed
-
- - security has been improved and if you try to decompile the executable it will be much more difficult to find the password because now it is also base64 encrypted.
-
  main menu in english:
  
   ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20espa.png?raw=true)
