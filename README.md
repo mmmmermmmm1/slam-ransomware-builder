@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1568px" src="https://www.dropbox.com/s/xqxoemwep6njkf4/Captura.png" align="center" alt="slam ransomware builder" />
+ <img width="1568px" src="https://i.imgur.com/Ab4VRbw.png" align="center" alt="slam ransomware builder" />
 </p>
 <p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AnderMoralDiaz/slam-ransomware-builder?style=for-the-badge">
@@ -58,19 +58,19 @@ the changes of each version are in the releases
 
 ## Images
 #### main form
-![](https://www.dropbox.com/s/b3xakj67ip9ipf2/principal.PNG?dl=1)
+![](https://i.imgur.com/eOI3gwM.png)
 #### settings form
-![](https://www.dropbox.com/s/j09rf5bq9y91t7v/ajustes.PNG?dl=1)
+![](https://i.imgur.com/W2pB7Sz.png)
 #### advanced form 1
-![](https://www.dropbox.com/s/o745xrfdhax9cad/a1.PNG?dl=1)
+![](https://i.imgur.com/jc6kM7V.png)
 #### advanced form 2
-![](https://www.dropbox.com/s/flv5pi72vhuoiaq/a2.PNG?dl=1)
+![](https://i.imgur.com/vkmHpxh.png)
 #### advanced form 3
-![](https://www.dropbox.com/s/apzh3gipii8shnb/a3.PNG?dl=1)
+![](https://i.imgur.com/4aZuxrJ.png)
 #### advanced form 4
-![](https://www.dropbox.com/s/77dgg47dkvfdnt4/a4.PNG?dl=1)
+![](https://i.imgur.com/XFRR9y4.png)
 #### server form
-![](https://www.dropbox.com/s/nob2p32nhwmco4r/server.PNG?dl=1)
+![](https://i.imgur.com/wjHt13L.png)
 
 #### many thanks to:
 [![](https://reporoster.com/stars/AnderMoralDiaz/slam-ransomware-builder)](https://github.com/AnderMoralDiaz/slam-ransomware-builder/stargazers)
