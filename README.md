@@ -84,7 +84,7 @@ the changes of each version are in the releases
 <a href="https://instagram.com/_ander_man_">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-1E4174?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-<a href="https://mailto:salchichaybacon@gmail.com">
+<a href="https://idomna.000webhostapp.com/easymodinstaller/redirect.html">
       <img alt="Gmail" src="https://img.shields.io/badge/gmail-1E4174?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 <a href="https://twitch.tv/andermoral">
