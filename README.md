@@ -47,6 +47,9 @@
 - you can set any color in the background or in the text, set a random color every time you start the program or set the builder to rainbow mode.
 - you can view a log while compiling the ransomware to see the bugs or whatever, logs are also saved.
 - the password is base64 encrypted to make it slightly more difficult to extract the password if the ransomware is decompiled.
+## bugs
+
+>there is a bug that makes it impossible to compile the ransomware in version 1.5, use version 1.4 for now, sorry for the inconvenience.
 
 ## info
 
