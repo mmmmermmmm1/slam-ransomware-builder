@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1568px" src="https://i.imgur.com/Ab4VRbw.png" align="center" alt="slam ransomware builder" />
+ <img width="1568px" src="https://i.imgur.com/3uIeSFK.png" align="center" alt="slam ransomware builder" />
 </p>
 <p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/AnderMoralDiaz/slam-ransomware-builder?style=for-the-badge">
