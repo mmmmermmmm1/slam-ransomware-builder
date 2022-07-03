@@ -81,7 +81,7 @@ the changes of each version are in the releases
 
 ## contact me
 
-<a href="https://youtube.com/UCBF5fDnI8r3fM0pjIPxRsZg">
+<a href="https://www.youtube.com/channel/UCBF5fDnI8r3fM0pjIPxRsZg">
       <img alt="YouTube" src="https://img.shields.io/badge/YouTube-1E4174?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <a href="https://instagram.com/_ander_man_">
