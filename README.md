@@ -49,7 +49,7 @@
 - the password is base64 encrypted to make it slightly more difficult to extract the password if the ransomware is decompiled.
 ## bugs
 
->there is a bug that makes it impossible to compile the ransomware in version 1.5, use version 1.4 for now, sorry for the inconvenience.
+>none at this time
 
 ## info
 
