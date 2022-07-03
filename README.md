@@ -63,7 +63,7 @@ the changes of each version are in the releases
 #### main form
 ![](https://i.imgur.com/irSDr3W.png)
 #### settings form
-![](https://i.imgur.com/W2pB7Sz.png)
+![](https://i.imgur.com/ntPoRf2.png)
 #### advanced form 1
 ![](https://i.imgur.com/jc6kM7V.png)
 #### advanced form 2
