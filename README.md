@@ -23,7 +23,8 @@
 ## Features
 
 - customized ransom note, you can add variables such as the ip, the name and personal id of the victim, a list of encrypted files, etc...
-- you can change the victim's wallpaper
+- you can change the victim's wallpaper (only jpg)
+- you can convert any image to jpg (this is the format used by the ransomware to change the wallpaper)
 - you can set a custom encryption password
 - you can change the ransom note name and extension of the encrypted files.
 - you can choose which directories to encrypt from the list, and if they are not in the list, you can add the paths yourself.
