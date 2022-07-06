@@ -54,7 +54,7 @@
 
 ## info
 
->currently the builder is in version 1.5 alpha, it is an alpha because I have not tested it well and there may be some bugs, but it is unlikely to 80%.
+>currently the builder is in version 1.5.
 the changes of each version are in the releases
 ## Installation
 
