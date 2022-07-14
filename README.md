@@ -48,6 +48,12 @@
 - you can set any color in the background or in the text, set a random color every time you start the program or set the builder to rainbow mode.
 - you can view a log while compiling the ransomware to see the bugs or whatever, logs are also saved.
 - the password is base64 encrypted to make it slightly more difficult to extract the password if the ransomware is decompiled.
+
+# slam mbr builder alpha
+>this is an alpha of slam mbr builder, it probably has bugs and does not have all the features that will be added in the future, this version is intended for people to test it, to be able to see how the program looks right now, also to give me ideas and tell me the bugs you find, thanks!
+
+https://github.com/AnderMoralDiaz/slam-ransomware-builder/releases/tag/smb1.0.0
+
 ## bugs
 
 >none at this time
