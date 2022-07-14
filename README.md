@@ -16,7 +16,7 @@
  it has features that NO OTHER COMPILER HAS, it is completely free and easy to use.
  use it on Windows 10-11 on others OS it will not work (but the ransomware generated works fine in windows 7 upwards).
 
-- the mbr ransomware builder is in development
+- the mbr ransomware builder is in development (alpha 0.0.1 has been released)
 - the screenlocker builder will be developed in the future
 - other tools will be developed in the future
 
