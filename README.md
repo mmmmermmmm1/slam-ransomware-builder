@@ -88,9 +88,6 @@ the changes of each version are in the releases
 
 [![](https://img.youtube.com/vi/i6MjvJ_vs38/0.jpg)](https://www.youtube.com/watch?v=i6MjvJ_vs38)
 
-#### many thanks to:
-[![](https://reporoster.com/stars/AnderMoralDiaz/slam-ransomware-builder)](https://github.com/AnderMoralDiaz/slam-ransomware-builder/stargazers)
-[![](https://reporoster.com/forks/AnderMoralDiaz/slam-ransomware-builder)](https://github.com/AnderMoralDiaz/slam-ransomware-builder/network/members)
 
 ## contact me
 
