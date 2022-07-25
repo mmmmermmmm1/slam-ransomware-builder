@@ -90,7 +90,7 @@ the changes of each version are in the releases
 
 
 ## contact me
-
+<p align="center">
 <a href="https://www.youtube.com/channel/UCBF5fDnI8r3fM0pjIPxRsZg">
       <img alt="YouTube" src="https://img.shields.io/badge/YouTube-1E4174?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
@@ -106,3 +106,4 @@ the changes of each version are in the releases
 <a href="https://discord.gg/eXEskBfhy5">
       <img alt="discord" src="https://img.shields.io/badge/discord-1E4174?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
+</p>
