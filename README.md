@@ -71,9 +71,9 @@ the changes of each version are in the releases
 #### main form
 ![](https://i.imgur.com/irSDr3W.png)
 #### settings form
-![](https://i.imgur.com/ntPoRf2.png)
+![](https://i.imgur.com/6KSRxOV.png)
 #### advanced form 1
-![](https://i.imgur.com/jc6kM7V.png)
+![](https://i.imgur.com/Jb8zmiC.png)
 #### advanced form 2
 ![](https://i.imgur.com/vkmHpxh.png)
 #### advanced form 3
