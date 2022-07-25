@@ -67,6 +67,9 @@ the changes of each version are in the releases
 
 >download slam ransomware builder installer and click the corresponding buttons, it is important that while you have the program installed you deactivate the antivirus or create an exception in the C:\slam_ransomware_builder folder.
 
+## how to update?
+>just download the last version, open the installer, click uninstall button and then the install button.
+
 ## Images
 #### main form
 ![](https://i.imgur.com/irSDr3W.png)
