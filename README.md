@@ -36,14 +36,14 @@
 - you can make the ransomware ask for administrator permissions.
 - you can make the ransomware have administrator permissions WITHOUT ASKING
 - you can change the version, description, copyright, icon and all exe information.
-- you can change the byte skipping, this is very useful because if you set different bytes than the defaults ONLY YOU will be able to create the decryptor.
+- you can change the byte salt, this is very useful because if you set different bytes than the defaults ONLY YOU will be able to create the decryptor.
 - you can run a cmd command, very useful to disable the task manager etc... you will also have a list with commands that I recommend you to add.
 - you can send information to a server, when someone gets infected you will get a notification with the time of infection, the id etc... it is very easy to configure.
 - you can delete backups.
-- you can "auto destroy" the exe, that is to say, when you finish infecting the vicitma, the exe will be deleted.
+- you can "auto destroy" the exe, that is to say, when you finish infecting the victim, the exe will be deleted.
 - you can put it in critical process mode, so if you stop the infection by taskkill or task manager it will cause a bsod.
 - you can infect the usb, it will create a copy of the virus with the name you want in all the usb connected.
-- you can add custom c# code, with no limits, you will also have a code list that I recommend you, but make sure you know what you are doing (see below);
+- you can add custom c# code, with no limits, you will also have a code list that I recommend you, but make sure you know what you are doing.
 - you can make a system notification with the icon and message of your choice (I guess this only works on windows 10-11)
 - the builder is available in English and Spanish.
 - you can set any color in the background or in the text, set a random color every time you start the program or set the builder to rainbow mode.
