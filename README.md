@@ -61,7 +61,7 @@ https://github.com/AnderMoralDiaz/slam-ransomware-builder/releases/tag/smb1.0.0
 
 ## info
 
->currently the builder is in version 1.5.
+>currently the builder is in version 1.6.
 the changes of each version are in the releases
 ## Installation
 
@@ -91,6 +91,11 @@ the changes of each version are in the releases
 
 [![](https://img.youtube.com/vi/i6MjvJ_vs38/0.jpg)](https://www.youtube.com/watch?v=i6MjvJ_vs38)
 
+## many thanks to:
+
+[![Stargazers repo roster for @AnderMoralDiaz/slam-ransomware-builder](https://reporoster.com/stars/AnderMoralDiaz/slam-ransomware-builder)](https://github.com/AnderMoralDiaz/slam-ransomware-builder/stargazers)
+
+[![Forkers repo roster for @AnderMoralDiaz/slam-ransomware-builder](https://reporoster.com/forks/AnderMoralDiaz/slam-ransomware-builder)](https://github.com/AnderMoralDiaz/slam-ransomware-builder/network/members)
 
 ## contact me
 <p align="center">
