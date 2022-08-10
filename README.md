@@ -53,7 +53,7 @@
 # slam mbr builder alpha
 >this is an alpha of slam mbr builder, it probably has bugs and does not have all the features that will be added in the future, this version is intended for people to test it, to be able to see how the program looks right now, also to give me ideas and tell me the bugs you find, thanks!
 
-https://github.com/AnderMoralDiaz/slam-ransomware-builder/releases/tag/smb1.0.0
+https://github.com/AnderMoralDiaz/slam-ransomware-builder/releases/tag/smb0.0.1
 
 ## bugs
 
