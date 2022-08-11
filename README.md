@@ -55,10 +55,6 @@
 
 https://github.com/AnderMoralDiaz/slam-ransomware-builder/releases/tag/smb0.0.1
 
-## bugs
-
->none at this time
-
 ## info
 
 >currently the builder is in version 1.6.
